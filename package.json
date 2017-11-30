@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mkramb/bower-clean.git"
+    "url": "https://github.com/JulienAerts/bower-clean.git"
   },
   "dependencies": {
     "async": "~0.2.10",
